@@ -1,5 +1,7 @@
-# -fujitsu-lifebook-keyboard-issue
-keyboard was not working Linux fujitsu lifebook
+# -fujitsu lifebook keyboard issue
+
+## keyboard was not working Linux fujitsu lifebook
+
 Keyboard not working on Fujitsu Lifebook on Fedora 36
 
 
