@@ -16,6 +16,6 @@ After editing the grub file update the grubfile
 grub2-mkconfig -o "$(readlink -e /etc/grub2.cfg)"
 ```
 
-Now reboot.
+reboot after changes, and the keyboard is working again.
 
 
