@@ -1,3 +1,9 @@
+---
+title: "Fujitsu lifebook keyboard issue"
+author: [Benjamin Italiaander]
+date: "2021"
+keywords: [Linux, fujitsu, lifebook, keyboard]
+---
 # -fujitsu lifebook keyboard issue
 
 ## keyboard was not working Linux fujitsu lifebook
