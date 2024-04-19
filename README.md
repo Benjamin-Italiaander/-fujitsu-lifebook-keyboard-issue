@@ -4,7 +4,7 @@ author: [Benjamin Italiaander]
 date: "2021"
 keywords: [Linux, fujitsu, lifebook, keyboard]
 ---
-# -fujitsu lifebook keyboard issue
+#fujitsu lifebook keyboard issue
 
 ## keyboard was not working Linux fujitsu lifebook
 So the after installing Fedora Linux 36 on my fujitsu lifebook u7410 my keyboard was not working anymore. I fixed this by editing grub. 
